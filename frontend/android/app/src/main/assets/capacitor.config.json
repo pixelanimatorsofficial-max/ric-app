@@ -1,0 +1,11 @@
+{
+	"appId": "com.ric.tripcounting",
+	"appName": "Rickshaw Trip Counting",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"allowMixedContent": false
+	}
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Rickshaw Trip Counting</string>
+    <string name="title_activity_main">Rickshaw Trip Counting</string>
+    <string name="package_name">com.ric.tripcounting</string>
+    <string name="custom_url_scheme">com.ric.tripcounting</string>
+</resources>
